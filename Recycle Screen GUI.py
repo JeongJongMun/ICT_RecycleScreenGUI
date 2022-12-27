@@ -1,6 +1,5 @@
 from tkinter import *
 
-
 win=Tk()
 win.title("광고")
 win.geometry("800x480")
